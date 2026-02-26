@@ -1,9 +1,6 @@
-# basic-project-12
+# BMI Calculator
 
-This is a basic project repository created automatically.
+This is a BMI Calculator repository created for imabot2604.
 
-## How to run
-
-```bash
-python3 main.py
-```
+## File
+- `bmi.py`
